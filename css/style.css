@@ -1,0 +1,12 @@
+.contenedor{
+    
+    text-align: center;
+
+}
+.conteiner404{
+    display: flex;
+}
+.img404{
+    height: 400px;
+    width: auto;
+}
